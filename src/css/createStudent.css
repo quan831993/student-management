@@ -1,0 +1,65 @@
+.create-form {
+    width: 70vh;
+    margin: 15vh auto;
+    background-color: black;
+    color: white;
+    padding: 20px 50px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px gray;
+    box-sizing: border-box;
+}
+.create-form h1 {
+    text-align: center;
+    color: rgb(47, 168, 109);
+}
+
+.create-form label {
+    display: block;
+    font-size: 18px;
+    padding: 10px 0;
+    font-weight: 600;
+}
+.create-form input {
+    height: 35px;
+    width: 95%;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    padding: 0 10px;
+    background-color: rgba(211, 179, 179, 0.779);
+}
+
+.btn {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.create-form button {
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+}
+.create-form button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: blueviolet;
+}
+.button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+.button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: red;
+}
+
+
+    

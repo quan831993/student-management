@@ -1,0 +1,74 @@
+.student-box {
+    width: 50vw;
+    margin: 10vh auto;
+    background-color: black;
+    padding: 20px 50px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px gray;
+    color: white;
+    opacity: 80%;
+}
+
+.student-box h1 {
+    text-align: center;
+    color: rgb(47, 168, 109);
+}
+
+.student-box table {
+    border: 1px solid whitesmoke;
+    width: 100%;
+    text-align: center;
+}
+
+.student-box thead {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.student-box td {
+    border: 1px solid whitesmoke;
+}
+
+.student-box button {
+    display: block;
+    margin: 0px auto;
+    border-radius: 3px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+}
+
+.student-box button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: blueviolet;
+}
+
+.student-box label {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.student-box input {
+    height: 35px;
+    margin: 10px 0;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+    font-size: 18px;
+    padding: 0 10px;
+}
+.delete {
+    background-color: red !important;
+    color: white;
+}
+.delete:hover {
+    cursor: pointer;
+    background-color: white !important;
+    color: red !important;
+}
+.createStudent{
+    margin-top: 10px !important;
+    padding: 5px 3px;
+}

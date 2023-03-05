@@ -1,0 +1,7 @@
+export const GET_STUDENT = "GET_STUDENT";
+export const CREATE_STUDENT = "CREATE_STUDENT";
+export const STUDENT_SUCCESS = "STUDENT_SUCCESS";
+export const SEARCH_STUDENT = "SEARCH_STUDENT";
+export const DELETE_STUDENT = "DELETE_STUDENT";
+
+
